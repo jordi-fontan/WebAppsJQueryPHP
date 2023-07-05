@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jordi Fontan -  Autos</title>
+<?php require_once "bootstrap.php"; ?>
+</head>
+<body>
+<div class="container">
+<h1>Welcome to Jordi Fontan Auto WebApp</h1>
+<p><strong>Note:</strong> This sample code is only
+partially done and serves only as a starting point for the assignment.
+</p>
+<p>
+<a href="login.php">Please log in</a>
+</p>
+<p>
+Attempt to go to  <a href="add.php">add.php</a> without logging in - it should fail with an error message.</p>
+<p>
+Attempt to go to 
+<a href="edit.php">edit.php</a> without logging in - it should fail with an error message.</p>
+</div>
+</body>
+
